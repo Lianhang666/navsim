@@ -16,14 +16,3 @@ Streamlined training pipelines
 Improved evaluation metrics
 Faster and more efficient scripts
 
-
-
-Repository Structure
-This repository is a fork of the original DiffusionDrive project with targeted improvements in:
-Copyagents/diffusiondrive/
-└── [Updated agent implementations]
-
-planning/script/
-└── [Improved training and evaluation scripts]
-Other folders from the original repository remain unchanged.
-
